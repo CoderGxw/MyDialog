@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyDialog</string>
+    <string name="error_title">服务器异常</string>
+    <string name="error_msg">服务器连接失败，请稍候重试或联系管理员</string>
+    <string name="error_bt">我知道了</string>
+</resources>
